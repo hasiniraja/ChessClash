@@ -90,7 +90,10 @@ White's Move: e2 e4
 - **Abstraction**: `Piece` defines an abstract base for all chess pieces.
 
 ---
+## 🎥 Video Recording
+Here's a video demo of our project
 
+---
 ## 📈 Future Improvements
 - Implement special moves (castling, en passant, pawn promotion)
 - Add check and checkmate detection
