@@ -96,8 +96,7 @@ White's Move: e2 e4
 ---
 ## 🎥 Video Recording
 Here's a video demo of our project:  
-➡️ [Watch Demo - ChessClash.mp4](ChessClash.mp4)
-https://github.com/user-attachments/assets/794d249b-fe38-40eb-a20e-d6c2e2160620
+➡️ https://github.com/user-attachments/assets/794d249b-fe38-40eb-a20e-d6c2e2160620
 
 
 ---
